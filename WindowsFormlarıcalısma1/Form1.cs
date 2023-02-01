@@ -159,6 +159,7 @@ namespace WindowsFormlarıcalısma1
         private void button7_Click(object sender, EventArgs e)
         {
             string hobiler = "";
+
             if (checkBox1.Checked == true)
             {
                 hobiler = hobiler + checkBox1.Text + "," + Environment.NewLine ;
@@ -182,6 +183,11 @@ namespace WindowsFormlarıcalısma1
             }
             
             label11.Text = hobiler;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
