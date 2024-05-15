@@ -1,1 +1,1 @@
-The projects are basic level coding and are projects that I code to improve myself.
+This repository contains multiple Windows Forms projects, each created for different purposes and coded using different tools. The projects are basic level coding and are projects that I code to improve myself.
